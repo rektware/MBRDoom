@@ -1,0 +1,2 @@
+This folder contains the doom source code taken straight from the repository.
+(https://github.com/id-Software/DOOM)
